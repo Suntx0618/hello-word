@@ -1,2 +1,3 @@
 # hello-word
-repository
+
+Hello!I'm sun Tianxiang from Shenyang.
